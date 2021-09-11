@@ -10,6 +10,6 @@
 
 <div>
   <a href="https://github.com/Grupin-JC"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Grupin-JC&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grupin-JC&layout=compact&langs_count=7&theme=omni"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Grupin-JC&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grupin-JC&layout=compact&langs_count=7&theme=omni"/>
 </div>
