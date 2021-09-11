@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>Olá, nós somos o Grupin-JC</h1>
 
-<!--
-**Grupin-JC/Grupin-JC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  Grupo de pesquisa e inovação do IFRN campus João Câmara.
+</p>
 
-Here are some ideas to get you started:
+<p>
+  Somos vinculados ao CNPQ e buscamos contribuir para a ciência de forma séria e disciplinada.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Grupin-JC"/>
+  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=Grupin-JC&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grupin-JC&layout=compact&langs_count=7&theme=omni"/>
+</div>
